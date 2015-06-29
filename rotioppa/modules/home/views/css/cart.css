@@ -1,0 +1,7 @@
+.cart_view{width:75%;}
+.shop-cart {width:100%;}
+	.shop-cart tr td{border-bottom:1px solid #efefef;padding:10px;vertical-align:top;}
+	.shop-cart tr td input{width:15px;padding:3px;}
+	.shop-cart .jml{width:20px;}
+.box-cart{text-align:center;margin-top:40px;}
+	.box-cart h5{margin:10px;}

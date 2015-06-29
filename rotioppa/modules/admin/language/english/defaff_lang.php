@@ -1,0 +1,54 @@
+<?php
+$lang['info_account']='Detail Akun Affiliate';
+$lang['list_member'] = 'List Affiliate';
+$lang['no'] = 'No.';
+$lang['nama'] = 'Nama';
+$lang['tgl_sign'] = 'Tgl. Signup';
+$lang['no_tlp'] = 'No. Tlp';
+$lang['email'] = 'Email';
+$lang['pass'] = 'Password';
+$lang['fullname'] = 'Nama Lengkap';
+$lang['nickname'] = 'Nama Panggilan';
+$lang['jen_kel'] = 'Jenis Kelamin';
+$lang['tgl_lahir'] = 'Tgl. Lahir';
+$lang['alm'] = 'Alamat';
+$lang['prov'] = 'Provinsi';
+$lang['kota'] = 'Kota';
+$lang['negara'] = 'Negara';
+$lang['hp'] = 'HP';
+$lang['pay_method'] = 'Metode Pembayaran';
+$lang['save'] = 'Simpan';
+$lang['min_komisi'] = 'Minimal Transfer Komisi';
+$lang['det_aff'] = 'Detail Affiliate';
+$lang['list_aff'] = 'List Daftar Affiliate';
+
+$lang['lap_komisi'] = 'Laporan Komisi';
+$lang['list_lap_komisi'] = 'Daftar Laporan Komisi';
+$lang['lihat_bln'] = 'Lihat laporan bulan';
+$lang['tot_item'] = 'Total Item';
+$lang['tot_harga'] = 'Total Harga';
+$lang['tot_komisi'] = 'Total Komisi';
+$lang['bulan'] = 'Bulan';
+$lang['status_kirim'] = 'Status Kirim';
+$lang['kom_filter'] = 'Filter Komisi';
+$lang['aff'] = 'Affiliate';
+$lang['view'] = 'Tampilkan';
+$lang['until'] = 'Sampai';
+$lang['update_has_checked'] = 'Update yang telah di ceklis';
+$lang['has_transfer'] = 'sudah ditransfer';
+$lang['go'] = 'Go >>';
+$lang['check_the_one'] = 'Checklist terlebih dahulu!';
+$lang['min_transfer'] = 'Minimal Transfer';
+
+$lang['kom_aff'] = 'Daftar Komisi Affiliate';
+$lang['min_transfer'] = 'Minimal Transfer';
+$lang['tgl_kom'] = 'Tgl. Komisi';
+$lang['sure_dell_kom'] = 'Yakin komisi akan dihapus?';
+
+$lang['data_not_complete'] = 'Data masih belum lengkap';
+$lang['no']='Tidak';
+$lang['yes']='Ya';
+$lang['sure_dell_aff'] = 'Yakin akan dihapus?\r\nSemua data yang berhubungan dengan affiliate akan ikut terhapus.';
+$lang['send_email_update'] = 'Selalu kirim update email';
+$lang['update_success'] = 'Update data berhasil';
+$lang['no_data'] = 'Tidak ada data';

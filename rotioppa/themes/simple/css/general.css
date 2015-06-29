@@ -1,0 +1,90 @@
+* {	margin:0px; padding:0px;}
+
+/* global style 
+a:link, a:visited{text-decoration:none; color:#FD3559;}
+a:hover, a:visited:hover{color:#fb9b11; text-decoration:none}*/
+a{text-decoration:none;}
+h5.link a ,h5.label{color:#F16F23;}
+h5.link a:hover{color:#454545;}
+.orange{color:#ff3657;}
+.orange:hover{color:#454545;}
+a.white{color:#000;}
+a.white:hover{text-decoration:none;}
+
+a img { border:0;/*filter:alpha(opacity=70);-moz-opacity:0.7;-khtml-opacity: 0.7;opacity: 0.7;*/}
+a:hover img {filter:alpha(opacity=80);-moz-opacity:0.8;-khtml-opacity: 0.8;opacity: 0.8;}
+.desc:hover {filter:alpha(opacity=80);-moz-opacity:0.8;-khtml-opacity: 0.8;opacity: 0.8;}
+h1{font-size:1.7em; line-height:1.7em}
+h2{font-size:1.5em; line-height:1.5em}
+h3{font-size:1.3em; line-height:1.3em}
+h4{font-size:1.2em; line-height:1.2em}
+h5{font-size:1.1em; line-height:1.1em}
+h6{font-size:1em; line-height:1em; font-weight:bold}
+h1, h3, h4, h5, h6, h2{color:#000}
+h3 label,h4 label{color:#454545;}
+
+
+ul,li{list-style:none;}
+fieldset{border:none;border:1px solid #ddd;}
+fieldset legend{color:#454545;margin-left:20px;padding-left:10px;padding-right:10px;font-weight:bold;}
+p{line-height:150%;}
+ol{margin-left:15px;}
+ol li{list-style:decimal;margin:5px;}
+select option{padding-right:10px}
+
+.hide{display:none;}
+.columnr,.rightside {float:right;}
+.column,.leftside {float:left;}
+.clear {clear:both;height:1px;visibility:hidden;}
+.rp{color:#FF4200;font-weight:bold;}
+.rp2{color:#000;font-weight:bold;}
+.rp3{color:#b1b1b1;font-weight:bold;}
+.rpline{text-decoration:line-through;}
+.note{font-size:11px;color:#666;}
+.notecolored{font-size:16px; background:#fff; color:#f16036;width:100%;padding:5px 0}
+
+.notered{font-size:11px;color:#FF0000;}
+.msg_success,.msg_error{height:24px;line-height:24px;padding-left:30px;font-weight:bold;vertical-align:middle;margin:10px 10px 20px 20px;}
+.msg_success{background:url('../img/success.png') 0 center no-repeat;color:#009900;}
+.msg_error{background:url('../img/error.png') 0 0 no-repeat;color:#FF0000;}
+.boxq{border:1px solid #000;padding:10px;}
+/**FORM INPUT TEXT**/
+	input,textarea,select {
+	  -webkit-border-radius: 5;
+	  -moz-border-radius: 5;
+	  border-radius: 5px;
+	  color: #000;
+	  font-size: 14px;
+	  background: #FFF;
+	  padding: 5px 10px 5px 10px;
+	  margin-bottom:10px;
+	  border: solid #cdcbcb 1px;
+	}
+	.isubmit{color: #ffffff;font-size: 15px; background: #ff7e00; padding: 5px 30px 5px 30px; border: solid #ff7e00 1px;cursor:pointer}
+	ul.form li{padding:3px 0 3px 0;clear:both;}
+	ul.form li label{display:block;float:left;width:150px;color:#333;vertical-align:top;font-size:11px;}
+	
+/* table style */
+table.adminlist {width: 90%;border-spacing: 0;background-color: #e0dfdf;color: #666; margin:0 auto; margin-bottom:20px;}
+table.adminlist thead th {padding: 4px;	text-align: center;	background: #f4f4f4;color: #000;height: 38px;	font-weight: bold;}
+table.adminlist tbody tr{ background-color: #fff; }
+table.adminlist tbody tr.row1 	{ background: #f1f1f1;}
+table.adminlist tbody tr.row1 	{ background: #f1f1f1;}
+table.adminlist tbody tr.row0:hover td,
+table.adminlist tbody tr.row1:hover td  { background-color: #fff ; }
+table.adminlist tbody tr td { height: 28px; background: #fff;padding-left:2px;vertical-align:middle;}
+table.adminlist tbody tr.row1 td { background: #f6f6f6;}
+table.adminlist tfoot tr { text-align: center;  color: #333; }
+table.adminlist tfoot td,
+table.adminlist tfoot th { background-color: #f3f3f3; padding:3px;height: 38px;	font-weight: bold;}
+table.adminlist tfoot td.label-left{text-align:left;}
+table.adminlist .no{width:35px;}
+table.adminlist .rupiah{text-align:right;}
+table.adminlist tr td div{width:33.33%; float:left;text-align:center}
+table.adminlist tr td .cart-kiri{float:left; padding:5px 0;}
+table.adminlist tr td .cart-kanan{float:left; padding:5px 0;}
+table.adminlist tr td .cart-kanan a{color:#000; font-size:18px}
+.go{background:#d24219; border:1px #e8183a solid; padding:8px; color:#FFF}
+.go:hover{background:#f05b31; border:1px #e8183a solid; padding:8px; color:#FFF}
+
+.clear{clear:both}

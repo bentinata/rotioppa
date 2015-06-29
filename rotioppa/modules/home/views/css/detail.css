@@ -1,0 +1,15 @@
+.detailproduk{line-height:20px;width:780px;}
+	.detailproduk .imgpreview{margin-right:20px;width:380px;}
+	.detailproduk .imgpreview li{padding:10px;margin:5px;border:1px solid #efefef;}
+	.detailproduk .filmstrip img{cursor:pointer;width:30px;height:30px;}
+.bt-filmstrip li{float:left;padding:10px;margin:5px;border:1px solid #efefef;}
+	.bt-filmstrip img{cursor:pointer;width:30px;height:30px;}
+	.bt-filmstrip .def{background:#f1f1f1;}
+		.bt-filmstrip .def img{cursor:default;}
+.img300{width:300px;height:300px;}
+.rate li {float:left;padding-right:5px;}
+.grate textarea{width:300px;}
+
+#wish{line-height:150%;}
+
+#post_cart input,#post_cart option,#post_cart select{color:#000;}

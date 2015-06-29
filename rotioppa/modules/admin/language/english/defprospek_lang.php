@@ -1,0 +1,31 @@
+<?php
+$lang['info_account']='Detail Akun Member';
+$lang['list_pros'] = 'List Prospek';
+$lang['no'] = 'No.';
+$lang['nama'] = 'Nama';
+$lang['tgl_sign'] = 'Tgl. Signup';
+$lang['tgl_valid'] = 'Tgl. Aktivasi';
+$lang['no_tlp'] = 'No. Tlp';
+$lang['email'] = 'Email';
+$lang['pass'] = 'Password';
+$lang['fullname'] = 'Nama Lengkap';
+$lang['nickname'] = 'Nama Panggilan';
+$lang['no_tlp'] = 'No. Tlp';
+$lang['jen_kel'] = 'Jenis Kelamin';
+$lang['tgl_lahir'] = 'Tgl. Lahir';
+$lang['addr_home'] = 'Alamat Rumah';
+$lang['prov'] = 'Provinsi';
+$lang['kota'] = 'Kota';
+$lang['addr_lengkap'] = 'Alamat Lengkap';
+$lang['zip'] = 'Kode Pos';
+$lang['addr_kirim'] = 'Alamat Pengiriman Barang';
+$lang['nama'] = 'Nama';
+$lang['hp'] = 'HP';
+
+$lang['data_not_complete'] = 'Data masih belum lengkap';
+$lang['no']='Tidak';
+$lang['yes']='Ya';
+$lang['sure_dell_member'] = 'Yakin akan dihapus?\r\nSemua data penjualan akan ikut terhapus.';
+$lang['send_email_update'] = 'Selalu kirim update email';
+$lang['update_success'] = 'Update data berhasil';
+$lang['no_data'] = 'Tidak ada data';

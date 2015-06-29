@@ -1,0 +1,24 @@
+#######################################
+####### FORMAT PENGGUNAAN
+#######################################
+
+
+### url format
+www.example.com/module/controller/method/parameter
+
+
+### load viewer
+$this->load->module_view('module', 'file_name')
+note : module_view($module, $view, $vars = array(), $return = false)
+
+
+### untuk di auto load libarari
+$autoload['libraries'] = array('database', 'session', 'module_name' => 'library_name')
+
+
+### language
+$this->lang->load('lang_file','lnguage_type');
+
+
+### model
+$this->load->module_model('setup', 'anggota_model', 'am');

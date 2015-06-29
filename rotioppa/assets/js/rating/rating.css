@@ -1,0 +1,5 @@
+#staroff{background: url(stars-blank-old.png) 0 0 repeat-x;width:75px;height:15px;}
+#staron{background: url(stars-old.png) 0 0 repeat-x;height:15px;}
+.bintang li,.bintangfix li{width:15px;height:15px;background-color:#009999;float:left;background: url(stars-blank-old.png) 0 0 no-repeat;}
+	.bintang li:hover,.bintangfix li:hover{cursor:pointer;}
+	.bintang li.select,.bintangfix li.select{background: url(stars-old.png);}

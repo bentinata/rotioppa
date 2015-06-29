@@ -1,0 +1,20 @@
+#sam-sidebar{width:200px;float:left;margin-right:20px;}
+	#menu {padding:10px;clear:left;margin-bottom:20px;}
+		#menu h4{text-transform:uppercase;}
+		#menu ul.mainmenu{}
+		#menu li.menu {padding:10px 5px 10px 5px;text-align:right;border-bottom:1px solid #e6e6e6;border-top:1px solid #fff;}
+		#menu li.menu .a { background:url(../img/pim1.jpg) no-repeat right 6px;padding-right:15px;}
+		#menu li.menu .a:hover{background-image:url(../img/pim2.jpg);}
+			#menu .submenu li{text-align:left;padding:3px 10px;}
+			#menu .submenu a{background:url(../img/point.jpg) 0 center no-repeat;padding-left:8px;color:#F16F23;}
+			#menu .submenu a:hover{text-decoration:underline;}
+	#info {padding:10px;margin-bottom:20px;}
+		#info h4{text-transform:uppercase;}
+		#info p.date {padding-left:15px;color:#FF4200;margin-top:15px;margin-bottom:5px;background:url(../img/pim3.jpg) 0 5px no-repeat;}
+
+	#buletin .h4{text-align:center;line-height:150%;font-size:13px;color:#0D416A;}
+		#buletin .h4 b{color:#FF0000;font-size:14px;}
+		#buletin .h4 b.ex{color:#0A426B;}
+		#buletin ul li{padding:5px 0 5px 0;}
+		#buletin .tinput{width:150px;}
+		#imgbox{}

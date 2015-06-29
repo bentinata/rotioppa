@@ -1,0 +1,41 @@
+<?php
+$lang['info_account']='Detail Akun Member';
+$lang['list_member'] = 'List Member';
+$lang['no'] = 'No.';
+$lang['nama'] = 'Nama';
+$lang['tgl_sign'] = 'Tgl. Signup';
+$lang['no_tlp'] = 'No. Tlp';
+$lang['email'] = 'Email';
+$lang['pass'] = 'Password';
+$lang['fullname'] = 'Nama Lengkap';
+$lang['nickname'] = 'Nama Panggilan';
+$lang['no_tlp'] = 'No. Tlp';
+$lang['jen_kel'] = 'Jenis Kelamin';
+$lang['tgl_lahir'] = 'Tgl. Lahir';
+$lang['addr_home'] = 'Alamat Rumah';
+$lang['prov'] = 'Provinsi';
+$lang['kota'] = 'Kota';
+$lang['addr_lengkap'] = 'Alamat Lengkap';
+$lang['zip'] = 'Kode Pos';
+$lang['addr_kirim'] = 'Alamat Pengiriman Barang';
+$lang['nama'] = 'Nama';
+$lang['hp'] = 'HP';
+
+$lang['status_member'] = 'Status Member';
+$lang['status_member_1'] = 'Aktiv';
+$lang['status_member_2'] = 'Tidak Aktiv';
+$lang['save_and_active'] = 'Simpan dan Aktifkan';
+$lang['aktivasi'] = 'Aktifkan dan kirim email';
+$lang['sure_to_aktivate'] = 'Yakin akan diaktifkan? cek terlebih dahulu kebenaran emailnya!';
+$lang['actv_member_ok'] = 'Member telah diaktifkan dan dikirim email';
+$lang['mail_member_ok'] = 'Email telah dikirimkan';
+$lang['aktivasi_just_mail'] = 'Hanya kirim ulang email registrasi untuk aktivasi member';
+$lang['sure_to_aktivate_mail'] = 'Yakin akan dikirim ulang email aktivasinya?';
+
+$lang['data_not_complete'] = 'Data masih belum lengkap';
+$lang['no']='Tidak';
+$lang['yes']='Ya';
+$lang['sure_dell_member'] = 'Yakin akan dihapus?\r\nSemua data penjualan akan ikut terhapus.';
+$lang['send_email_update'] = 'Selalu kirim update email';
+$lang['update_success'] = 'Update data berhasil';
+$lang['no_data'] = 'Tidak ada data';

@@ -1,0 +1,7 @@
+.transfer h6{margin-bottom:5px;}
+	.transfer .i_logo{float:left;padding:5px;}
+.list-atas-nama{font-size:11px;padding-left:20px;margin-bottom:10px;}
+	.list-atas-nama h6{font-size:12px;}
+.alamatkirim p{margin-bottom:5px;}
+#total_biaya{font:normal 14px Verdana, Arial, Helvetica, sans-serif;border-top:1px solid #efefef;border-bottom:1px solid #efefef;padding:10px;}
+	#total_biaya span{color:#FF0000;}

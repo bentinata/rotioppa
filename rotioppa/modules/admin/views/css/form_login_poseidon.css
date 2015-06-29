@@ -1,0 +1,29 @@
+body {margin: 10px; padding: 0;background: #fff;padding-bottom: 1px;font-size: 11px;color:#000;}
+body, td, th { font-family: Arial, Helvetica, sans-serif; }
+html, body { height: 95%; }
+input, select { font-size: 10px;  border: 1px solid silver; }
+textarea      { font-size: 11px;  border: 1px solid silver; }
+button        { font-size: 10px;  }
+
+input.disabled { background-color: #F0F0F0; }
+input.button  { cursor: pointer;   }
+
+input:focus,
+select:focus,
+textarea:focus { background-color: #ffd }
+
+ul{margin:0;}
+ul,li{list-style:none;}
+h1 {margin: 0; padding-bottom: 8px;	color: #0B55C4; font-size: 20px; font-weight: bold;}
+
+#wraper-login{width:70%;margin:0 auto;}
+#box-top,#box-bt{padding-left:5px;height:11px;}
+#box-top{background: url('img/log_header_right.png') 0 0 no-repeat;}
+	#box-top #br-box-top{border-top:1px solid #ccc;border-right:1px solid #ccc;height:11px;}
+#box-ct{background: url('img/log_header_middle.png') 0 0 repeat-y;border-right:1px solid #ccc;height:400px;width:}
+#box-bt{background: url('img/log_header_left_rtl.png') 0 bottom no-repeat;}
+	#box-bt #br-box-bt{border-bottom:1px solid #ccc;border-right:1px solid #ccc;height:11px;}
+#note {margin: 0 auto; line-height: normal;	font-size: smaller;	color: #666;	padding-left:30px; width:250px;text-align:center;}
+
+
+.error_msg{color:#FF0000;}

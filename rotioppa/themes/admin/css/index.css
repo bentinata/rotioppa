@@ -1,0 +1,32 @@
+/**{padding:0;margin:0;}
+body {background: transparent url('img/bg.jpg') 0 0 repeat-x;font: normal 13px/17px 'Lucida Grande',Verdana,Arial,sans-serif;}
+*/
+@import url("general.css");
+body {background: #fff url('img/admin_head.png') 0 0 repeat-x;}
+#bg-header{height: 53px;background:url('img/book.png') 0 0 no-repeat;}
+#bg-header .title {	font-size: 22px; font-weight: bold; color: #fff; line-height: 44px;	padding-left: 70px;}
+#bg-header .version {display: block; float: right;color: #fff;padding: 25px 5px 0 0;}
+#bg-center{}
+	#bg-content{clear:both;padding:10px;min-height:300px;}
+	#tab-menu{border: 1px solid #ccc;}
+	#user{text-align:right;font-weight:bold;padding-top:10px;}
+		#user span{background:url('img/user.png') 0 center no-repeat;padding:10px 15px 10px 30px;color:#616ab7;}
+#bg-footer{clear:both;text-align:center;font:normal 10px/20px Verdana;padding:20px;color:#666;}
+
+div.header { font-size: 22px; font-weight: bold; color: #0B55C4; margin-left: 10px; margin-bottom:50px;}
+	div.header span{float:left;margin-left:10px;margin-top:10px;}
+	div.header img{float:left;}
+
+#box-home{background-color:#F9F9F9;padding:20px;border:1px solid #d5d5d5;}
+#cpanel div.icon {text-align: center;margin-right: 5px;float: left;}
+	#cpanel div.icon a {display: block;	float: left;border: 1px solid #f0f0f0;height: 97px;	width: 108px;color: #666;vertical-align: middle;text-decoration: none;}
+	#cpanel div.icon a:hover {border-left: 1px solid #eee;border-top: 1px solid #eee;border-right: 1px solid #ccc;border-bottom: 1px solid #ccc;background: #f5f5f5;color: #0B55C4;}
+	#cpanel img  { padding: 10px 0; margin: 0 auto; }
+	#cpanel span { display: block; text-align: center; }
+
+.ckalm{width:47%;}
+	.ckalm textarea{width:200px;}
+
+.form-label{margin:0;padding:0;}
+.form-label li{}
+.form-label label{float:left;display:block;width:150px;}

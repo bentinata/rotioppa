@@ -1,0 +1,14 @@
+.produk_detail .produk, .produk_detail textarea{width:600px;}
+	.produk_detail .summary{height:100px;}
+	.produk_detail .desc{height:500px;}
+
+.diskon textarea{width:600px;}
+.bt{font-size:13px;padding:5px 10px;}
+
+.file{margin:0;padding:0;}
+	.file li{float:left;margin:0;padding:0;padding-right:15px;}
+	
+.property .adminlist{margin-bottom:15px;}
+	.property .attrval input{width:200px;}
+
+#list-input th{text-align:left;}
